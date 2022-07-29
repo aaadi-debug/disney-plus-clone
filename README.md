@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 You can find this project on internet, as it is hosted on firebase: https://disney-plus-clone-accda.web.app/
 
+This Project is in development.
+
 ## Available Scripts
 
 In the project directory, you can run:
